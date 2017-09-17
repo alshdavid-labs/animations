@@ -1,0 +1,11 @@
+li, a {
+    display: inline-block;
+}
+
+a {
+    padding: 20px; 
+}
+
+.active {
+    background: #e0e0e0;
+}
